@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg02Variable", "ConsoleApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg03Arrays", "Opg03Arrays\Opg03Arrays.csproj", "{730E2292-D230-48B0-A5D9-2EC3CE0E26A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg04Strings", "Opg04Strings\Opg04Strings.csproj", "{BED287F4-569C-453A-BACD-AEB464244F58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{730E2292-D230-48B0-A5D9-2EC3CE0E26A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{730E2292-D230-48B0-A5D9-2EC3CE0E26A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{730E2292-D230-48B0-A5D9-2EC3CE0E26A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED287F4-569C-453A-BACD-AEB464244F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED287F4-569C-453A-BACD-AEB464244F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED287F4-569C-453A-BACD-AEB464244F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED287F4-569C-453A-BACD-AEB464244F58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
