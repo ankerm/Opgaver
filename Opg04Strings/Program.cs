@@ -21,10 +21,13 @@ namespace Opg04Strings
             string partNavn = fuldNavn.Substring(6, 6);
             Console.WriteLine(partNavn);
             string[] navne = fuldNavn.Split(' ');
+            string nytNavn = "";
             foreach (var item in navne)
             {
                 Console.WriteLine(item);
+                nytNavn = nytNavn + item.Substring(0, 1).ToUpper() + item.Substring(1).ToLower() + " ";
             }
+            Console.WriteLine(nytNavn);
 
         }
     }
