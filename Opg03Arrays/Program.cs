@@ -19,7 +19,7 @@ namespace Opg03Arrays
             loeninger[4] = 43000;
             loeninger[5] = 34000;
 
-            loeninger = loeninger.sort;
+            Array.Sort(loeninger);
 
             int loenTotal = 0;
             for(int i=0; i < loeninger.Length; i++)
