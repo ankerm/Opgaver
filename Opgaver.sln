@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg08Overloading", "Opg07Ov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg09Rekursion", "Opg09Rekursion\Opg09Rekursion.csproj", "{E5397481-D082-431D-8240-F39479BFBE07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg10Terning", "Opg10Terning\Opg10Terning.csproj", "{DB2BF40A-50AD-4D03-AC7F-96B34A2E62A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{E5397481-D082-431D-8240-F39479BFBE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5397481-D082-431D-8240-F39479BFBE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5397481-D082-431D-8240-F39479BFBE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2BF40A-50AD-4D03-AC7F-96B34A2E62A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2BF40A-50AD-4D03-AC7F-96B34A2E62A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2BF40A-50AD-4D03-AC7F-96B34A2E62A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2BF40A-50AD-4D03-AC7F-96B34A2E62A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
