@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg10Terning", "Opg10Ternin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg11Properties", "Opg11Properties\Opg11Properties.csproj", "{346C523E-795A-4F58-B116-A7B201BDF2FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg12Properties2", "Opg12Properties2\Opg12Properties2.csproj", "{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{346C523E-795A-4F58-B116-A7B201BDF2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346C523E-795A-4F58-B116-A7B201BDF2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346C523E-795A-4F58-B116-A7B201BDF2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
