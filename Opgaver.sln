@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg11Properties", "Opg11Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg12Properties2", "Opg12Properties2\Opg12Properties2.csproj", "{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg13Person", "Opg13Person\Opg13Person.csproj", "{C450D180-E46C-4A2B-9D4A-7F724E437120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg14Terning", "Opg14Terning\Opg14Terning.csproj", "{774AFDAA-A3B1-495D-B14E-6EC594E9FACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D85CF90B-18E7-4A0E-925D-C8EEB3F0D375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C450D180-E46C-4A2B-9D4A-7F724E437120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C450D180-E46C-4A2B-9D4A-7F724E437120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C450D180-E46C-4A2B-9D4A-7F724E437120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C450D180-E46C-4A2B-9D4A-7F724E437120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774AFDAA-A3B1-495D-B14E-6EC594E9FACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774AFDAA-A3B1-495D-B14E-6EC594E9FACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774AFDAA-A3B1-495D-B14E-6EC594E9FACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774AFDAA-A3B1-495D-B14E-6EC594E9FACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
