@@ -13,8 +13,11 @@ namespace Opg14Terning
 
         public int Værdi
         {
-            get { return værdi; }
+            get {
+                Console.WriteLine("Terning læses som " + this.værdi);
+                return værdi; }
             set {
+                Console.WriteLine("Terning sættes til " + value);
                 if (value < 1 || value > 6)
                     værdi = 1;
                 else
