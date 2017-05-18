@@ -9,10 +9,10 @@ namespace Opg15Polymorfi
     class Instruktør : Person
 
     {
-        public string NøgleID { get; set; }
-        public override string Skriv()
+        public int NøgleID { get; set; }
+        public override void Skriv()
         {
-            return base.Skriv() + " NøgleID " + NøgleID;
+            Console.WriteLine("{0} {1} nøgle-id {2}", this.Fornavn, this.Efternavn, NøgleID);
         }
     }
 }

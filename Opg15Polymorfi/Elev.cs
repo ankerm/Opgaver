@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Opg15Polymorfi
 {
-    class Elev : Person
-    {
+    class Elev : Person { 
         public string Klasselokale { get; set; }
-        public override string Skriv()
+        public override void Skriv()
         {
-            return base.Skriv() + " klasselokale " + this.Klasselokale;
+            Console.WriteLine("{0} {1} klasselokale {2}", this.Fornavn, this.Efternavn, Klasselokale);
+
         }
     }
 }

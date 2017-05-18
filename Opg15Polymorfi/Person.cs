@@ -11,9 +11,9 @@ namespace Opg15Polymorfi
         public string Fornavn { get; set; }
         public string Efternavn { get; set; }
 
-        public virtual string Skriv ()
+        public virtual void Skriv ()
         {
-            return Fornavn + " " + Efternavn;
+            Console.WriteLine( "{0} {1}", Fornavn, Efternavn );
         }
     }
 }
