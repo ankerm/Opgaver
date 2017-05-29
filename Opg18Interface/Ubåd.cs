@@ -11,7 +11,7 @@ namespace Opg18Interface
         public int Nummer { get; set; }
         public double Turbine { get; set; }
         public void gem() {
-            Console.WriteLine("Gemmer ubåd");
+            Console.WriteLine("Gemmer ubåd {0}", this.Nummer);
         }
 
     }

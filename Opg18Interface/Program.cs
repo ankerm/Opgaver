@@ -11,7 +11,9 @@ namespace Opg18Interface
         static void Main(string[] args)
         {
             IDbFunktioner[] a = new IDbFunktioner[4];
-            a[0] = new Ubåd();
+            Ubåd u1 = new Ubåd();
+            u1.Nummer = 123;
+            a[0] = u1;
             a[1] = new Hund();
             a[2] = new Hund();
             a[3] = new Ubåd();
