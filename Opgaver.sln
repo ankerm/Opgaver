@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg17Log", "Opg17Log\Opg17L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg18Interface", "Opg18Interface\Opg18Interface.csproj", "{0E5EF3FC-913D-48C0-9D94-FC5E0512EB1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg19Compare", "Opg19Compare\Opg19Compare.csproj", "{0DD98392-4A3F-43BB-A445-55EECBF01608}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{0E5EF3FC-913D-48C0-9D94-FC5E0512EB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E5EF3FC-913D-48C0-9D94-FC5E0512EB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E5EF3FC-913D-48C0-9D94-FC5E0512EB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD98392-4A3F-43BB-A445-55EECBF01608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD98392-4A3F-43BB-A445-55EECBF01608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD98392-4A3F-43BB-A445-55EECBF01608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD98392-4A3F-43BB-A445-55EECBF01608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
