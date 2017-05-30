@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg20List", "Opg20List\Opg2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg21Using", "Opg21Using\Opg21Using.csproj", "{424EA0D5-FF7C-4BDC-AA1E-074EF313EFB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg22Collection", "Opg22Collection\Opg22Collection.csproj", "{F4DCA54C-95B1-42EC-B51B-2DFCB1CABFA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{424EA0D5-FF7C-4BDC-AA1E-074EF313EFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{424EA0D5-FF7C-4BDC-AA1E-074EF313EFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{424EA0D5-FF7C-4BDC-AA1E-074EF313EFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DCA54C-95B1-42EC-B51B-2DFCB1CABFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DCA54C-95B1-42EC-B51B-2DFCB1CABFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DCA54C-95B1-42EC-B51B-2DFCB1CABFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DCA54C-95B1-42EC-B51B-2DFCB1CABFA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
