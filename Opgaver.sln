@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg23Delegates", "Opg23Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg24Events", "Events\Opg24Events.csproj", "{211B8A07-16C5-46A0-A803-6EF87E1EA2C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg25LINQ", "Opg25LINQ\Opg25LINQ.csproj", "{B52B7962-3C96-41F1-A3A7-FED7E307D19A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{211B8A07-16C5-46A0-A803-6EF87E1EA2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{211B8A07-16C5-46A0-A803-6EF87E1EA2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{211B8A07-16C5-46A0-A803-6EF87E1EA2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52B7962-3C96-41F1-A3A7-FED7E307D19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52B7962-3C96-41F1-A3A7-FED7E307D19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52B7962-3C96-41F1-A3A7-FED7E307D19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52B7962-3C96-41F1-A3A7-FED7E307D19A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
